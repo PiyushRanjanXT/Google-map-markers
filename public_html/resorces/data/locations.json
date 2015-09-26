@@ -1,0 +1,300 @@
+{
+    "locations": [
+        
+            {
+                "city":"Delhi",
+                "lat":28.6100,
+                "lang":77.2300,
+                "ads":[
+                    {
+                       "address": "Janakpuri, New Delhi, Delhi, India",
+                       "lat":28.619570,
+                       "lang":77.088104,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"car"
+                    },
+                    {
+                       "address": "Jangpura, New Delhi, Delhi, India",
+                       "lat":28.581804,
+                       "lang":77.247704,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"bike"
+                    },
+                    {
+                       "address": "Dwarka, New Delhi, Delhi, India",
+                       "lat":28.592140,
+                       "lang":77.046051,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"car"
+                    }
+                    ,
+                    {
+                       "address": "Paharganj, New Delhi, Delhi, India",
+                       "lat":28.642361,
+                       "lang":77.217110,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"bike"
+                    }
+                ]
+        
+            },
+            {
+                "city":"Bengaluru",
+                "lat":12.9667,
+                "lang":77.5667,
+                 "ads":[
+                    {
+                       "address": "Bommanahalli, Bengaluru, Karnataka, India",
+                       "lat":12.899162,
+                       "lang":77.616859,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"car"
+                    },
+                    {
+                       "address": "Ejipura, Bengaluru, Karnataka, India",
+                       "lat":12.942621,
+                       "lang":77.627121,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"bike"
+                    },
+                    {
+                       "address": "Harlur, Bengaluru, Karnataka, India",
+                       "lat":12.900836,
+                       "lang":77.669907,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"car"
+                    }
+                    ,
+                    {
+                       "address": "Banglore Hospital, Bengaluru, Karnataka, India",
+                       "lat":13.006752,
+                       "lang":77.561737,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"bike"
+                    }
+                ]
+        
+            },
+            {
+                "city":"Chennai",
+                "lat":13.0827,
+                "lang":80.2707,
+                "ads":[
+                    {
+                       "address": "Tambaram, Chennai, Tamil Nadu, India",
+                       "lat":12.922915,
+                       "lang":80.127457,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"car"
+                    },
+                    {
+                       "address": "Chennai, Tamil Nadu, India",
+                       "lat":13.067439,
+                       "lang":80.237617,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"bike"
+                    },
+                    {
+                       "address": "Neelankarai, Chennai, Tamil Nadu, India",
+                       "lat":12.949282,
+                       "lang":80.255013,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"car"
+                    }
+                    ,
+                    {
+                       "address": "PVadapalani, Chennai, Tamil Nadu, India",
+                       "lat":13.052192,
+                       "lang":80.212051,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"bike"
+                    }
+                ]
+        
+            },
+            {
+                "city":"Gurgaon",
+                "lat":28.4700,
+                "lang":77.0300,
+                "ads":[
+                    {
+                       "address": "Gurgaon, Haryana, India",
+                       "lat":28.457523,
+                       "lang":77.026344,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"car"
+                    },
+                    {
+                       "address": "Shadowfax Technologies, Gurgaon, Haryana, India",
+                       "lat":28.470280,
+                       "lang":77.045296,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"bike"
+                    },
+                    {
+                       "address": "Sushant Lok Phase I, Sector 43, Gurgaon, Haryana, India",
+                       "lat":28.463531,
+                       "lang":77.076950,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"car"
+                    }
+                    ,
+                    {
+                       "address": "Manesar, Gurgaon, Haryana, India",
+                       "lat":28.372324,
+                       "lang":76.919563,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"bike"
+                    }
+                ]
+        
+            },
+            {
+                "city":"Noida",
+                "lat":28.5700,
+                "lang":77.3200,
+                "ads":[
+                    {
+                       "address": "Bhangel, Sector 102, Noida, Uttar Pradesh, India",
+                       "lat":28.310843,
+                       "lang":77.234703,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"car"
+                    },
+                    {
+                       "address": "Acro Technologies India Private Ltd., Noida, Uttar Pradesh, India",
+                       "lat":28.593588,
+                       "lang":77.318756,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"bike"
+                    },
+                    {
+                       "address": "Sector 66, Noida, Uttar Pradesh, India",
+                       "lat":28.605511,
+                       "lang":77.376076,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"car"
+                    }
+                    ,
+                    {
+                       "address": "Greater Noida, Uttar Pradesh, India",
+                       "lat":28.474388,
+                       "lang":77.503990,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"bike"
+                    }
+                ]
+        
+            },
+            {
+                "city":"Mumbai",
+                "lat":18.9750,
+                "lang":77.2300,
+                "ads":[
+                    {
+                       "address": "Black Bay, Mumbai, Maharashtra, India",
+                       "lat":18.941360,
+                       "lang":72.809319,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"car"
+                    },
+                    {
+                       "address": "Borivali, Mumbai, Maharashtra, India",
+                       "lat":19.228825,
+                       "lang":72.854118,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"bike"
+                    },
+                    {
+                       "address": "Mulund West, Mumbai, Maharashtra, India",
+                       "lat":19.174673,
+                       "lang":72.943108,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"car"
+                    }
+                    ,
+                    {
+                       "address": "Wadala Village, Wadala, Mumbai, Maharashtra, India",
+                       "lat":19.023010,
+                       "lang":72.859352,
+                       "title":"Lorem Ipsum is simply dummy text",
+                       "discription":"Lorem Ipsum is simply dummy textLorem Ipsum is simply dummy textLorem Ipsum is simply dummy text",
+                       "phone":"8905678976",
+                       "image":"car.jpg",
+                       "category":"bike"
+                    }
+                ]
+        
+            }
+    ]
+            
+}
